@@ -8,3 +8,7 @@ A interactive Python web application built with Streamlit that analyzes user cho
 * Python
 * Streamlit
 * HTML/CSS Custom Styling
+   # Features
+* Interactive quiz logic
+* Custom UI styling
+* Deployed live on Streamlit Cloud
